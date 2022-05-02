@@ -5,7 +5,7 @@
 
 Раньше при открытии последней карты в приложении проигрывалась музыка, но что-то сломалось.
 
-- [Видео (youtube.com)](https://youtube.com/j8EVRsqe9eI) - [(файлом)](screenshots/video.mp4)
+- [Видео (youtube.com)](https://youtu.be/j8EVRsqe9eI) - [(файлом)](screenshots/video.mp4)
 
 ## Скрины
 
